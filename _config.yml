@@ -18,7 +18,7 @@ tagline: CSW 8 - Introduction to Computer Science # Shown as a title on the page
 description: Winter 2022 with Prof. K
 author: Yekaterina Kharitonova
 baseurl: '/w22' # the subpath of your site, e.g. /blog
-url: 'https://ucsb-csw8.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://ucsb-csw8-test.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
